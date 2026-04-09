@@ -1,0 +1,18 @@
+# 图片占位符说明
+
+这个文件夹用于存放商品图片。由于这是一个演示项目，实际的图片文件需要您自己添加。
+
+建议的图片文件：
+- banner1.jpg, banner2.jpg, banner3.jpg (首页轮播图)
+- racket1.jpg, racket2.jpg (羽毛球拍图片)
+- shuttle1.jpg, shuttle2.jpg (羽毛球图片)
+- shoes1.jpg, shoes2.jpg (球鞋图片)
+
+您可以使用任何羽毛球相关的图片，或者使用占位图片服务如：
+- https://picsum.photos/400/300
+- https://via.placeholder.com/400x300
+
+在代码中，图片路径已经设置为相对路径，如：
+- /images/racket1.jpg
+- /images/banner1.jpg
+等
